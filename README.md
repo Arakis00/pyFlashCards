@@ -1,5 +1,5 @@
 # pyFlashCards
-Simple command line Python script to create and use flash cards.
+Simple command line Python script to create and use flash cards for studying.
 
 # Notes
 -This is one of the first Python scripts I made.  
